@@ -8,6 +8,6 @@
 
 
 - 🔭 I’m currently working on React, React Native, NodeJS, CodeIgniter 4
-- 🌱 I’m currently learning Docker, software architectures, software security
+- 🌱 I’m currently learning CI/CD, Docker, software architectures, software security
 - 👯 I’m looking to collaborate on social projects and open source projects
 - 🎮 I love video games and I intend to study how to develop them
