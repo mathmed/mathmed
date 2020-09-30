@@ -7,7 +7,7 @@
 [![Steam Badge](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198392560980/)](https://steamcommunity.com/profiles/76561198392560980/) 
 
 
-- 🔭 I’m currently working on React, React Native, NodeJS, CodeIgniter 4
-- 🌱 I’m currently learning CI/CD, Docker, software architectures, software security
+- 🔭 I’m currently working on React, React Native, NodeJS, Laravel
+- 🌱 I’m currently learning CI/CD, Docker, Software Architectures, Design Patterns
 - 👯 I’m looking to collaborate on social projects and open source projects
-- 🎮 I love video games and I intend to study how to develop them
+- 🎮 I love video games <3
