@@ -8,6 +8,6 @@
 
 
 - 🔭 I’m currently working on React, React Native, NodeJS, Laravel
-- 🌱 I’m currently learning CI/CD, Docker, Software Architectures, Design Patterns
+- 🌱 I’m currently learning CI/CD, Docker, Software Architectures, Design Patterns, Golang
 - 👯 I’m looking to collaborate on social projects and open source projects
 - 🎮 I love video games <3
