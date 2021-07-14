@@ -8,6 +8,6 @@
 
 
 - 🔭 I’m currently working on React, React Native, NodeJS, Laravel, Python
-- 🌱 I’m currently learning DevOps (Docker, Kubernets, Rancher, CI/DC), Software Architectures and Design Patterns
+- 🌱 I’m currently learning DevOps (Docker, Kubernets, Rancher, CI/CD), Software Architectures and Design Patterns
 - 👯 I’m looking to collaborate on social projects and open source projects
 - 🎮 I love video games <3
