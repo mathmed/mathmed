@@ -9,6 +9,6 @@
 
 - 👨🏽‍🎓 I've a degree in Information Systems
 - 🔭 I'm currently working as a Tech Lead at @atarb2b
-- 💰 I have experience with Payment Gateway integrations and Banking Services, such as SPB (TED) and SPI (PIX).
+- 💰 I've experience with Payment Gateway integrations and Banking Services, such as SPB (TED) and SPI (PIX).
 - 🌱 I'm currently learning about Clean Code, Clean Architecture, SOA, DevOps, Machine Learning e IA.
 - 🎮 I love video games <3
