@@ -7,7 +7,7 @@
 [![Steam Badge](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198392560980/)](https://steamcommunity.com/profiles/76561198392560980/) 
 
 
-- 👨🏽‍🎓 I've a degree in Information Systems
+- 👨🏽‍🎓 BSc. Information Systems
 - 🔭 I'm currently working as a Tech Lead at @atarb2b
 - 💰 I've experience with Payment Gateway integrations and Banking Services, such as SPB (TED) and SPI (PIX).
 - 🌱 I'm currently learning about Clean Code, Clean Architecture, SOA, DevOps, Machine Learning e IA.
