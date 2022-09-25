@@ -10,5 +10,5 @@
 - 👨🏽‍🎓 BSc. Information Systems
 - 🔭 I'm currently working as a Tech Lead at @atarb2b
 - 💰 I've experience with Payment Gateway integrations and Banking Services, such as SPB (TED) and SPI (PIX).
-- 🌱 I'm currently learning about Clean Code, Clean Architecture, SOA, DevOps, Machine Learning e IA.
+- 🌱 I'm currently learning about Clean Code, Clean Architecture, SOA, DevOps, Machine Learning and AI.
 - 🎮 I love games <3
