@@ -8,7 +8,7 @@
 
 
 - 👨🏽‍🎓 BSc. Information Systems
-- 🔭 Tech Lead at @AtarB2B
+- 🔭 Tech Lead at @CondoConta
 - 💰 experience with Payment Gateway integrations and Banking Services, such as SPB (TED) and SPI (PIX).
 - 🌱 currently learning about Clean Code, Clean Architecture, SOA, DevOps, Machine Learning and AI.
 - 🎮 love games <3
