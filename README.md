@@ -8,7 +8,7 @@
 
 
 - 👨🏽‍🎓 BSc. Information Systems
-- 🔭 Tech Lead at @CondoConta
+- 🔭 Tech Lead at @condoconta-tech
 - 💰 experience with Payment Gateway integrations and Banking Services, such as SPB (TED) and SPI (PIX).
-- 🌱 currently learning about Clean Code, Clean Architecture, SOA, DevOps, Machine Learning and AI.
+- 🌱 currently learning about Software Architecture, SOA, DevOps, Blockchain, Machine Learning and AI.
 - 🎮 love games <3
